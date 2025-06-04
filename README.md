@@ -38,5 +38,5 @@ este ataque permite obtener una shell del equipo victima, si este es vulnerable 
 
 # Creditos:
 
-* Facu Salgado (bytesalgado)
+* Facu (FacuSecX)
 * Regalame una estrella en el repositorio
